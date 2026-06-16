@@ -7,9 +7,9 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 👉 Portfolio website link :
 https://srdipondev.vercel.app/
 
-## 📸 Preview
 
-![Portfolio Screenshot](images/portfolio-preview.png)
+
+
 
 ---
 
